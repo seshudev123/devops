@@ -3,6 +3,8 @@
 Simple Maven Project
 <<<<<<< HEAD
 
+Editing-git stash
+
 cloud
 
 AWS-CLOUD
